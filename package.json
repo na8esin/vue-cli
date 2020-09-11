@@ -1,0 +1,11 @@
+{
+  "name": "vue-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "t.watanabe <t.watanabe@ifcreate.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/cli": "^4.5.6",
+    "@vue/cli-service-global": "^4.5.6"
+  }
+}
